@@ -1,0 +1,38 @@
+Install the Performance Measurement Tool - DONE
+
+Check the default project with the Performance Measurement Tool - DONE 
+
+Reduce browser requests to less than 27
+    Look at the requests Metric’s “Max” value on the Measurement Tool
+
+Final total download size should be under 1.3MB
+    The contentLength Metric’s “Max” value on the Measurement Tool should be less than 1300000 bytes or 1.3MB’s
+
+Resize images appropriately to reduce the file size of each image while maintaining enough quality so the images don’t look pixelated in either the gallery or when the image is clicked and previewed at a larger size
+
+Replace the social media icons with their SVG equivalents in the img/social folder.
+
+
+Reduce web font usage by using Google fonts to load required fonts instead of supplied font stylesheets.
+
+Combine and minify CSS files.
+
+Combine and minify JS files.
+
+Link to the minified files in your HTML,
+    Be sure to include your combined files in your project. We will use these to check for any errors in the CSS and JS.    
+
+Prevent blocking JavaScript by moving it from the head of the page to a better location
+
+Make sure to check your code is valid by running it through an HTML and CSS validator.
+
+Check Multiple Browsers 
+
+
+EXTRA CREDIT 
+
+- Requests below 23
+- Reduce total download size to less than 1MB
+- Provide multiple file sizes for images and only load larger images when JavaScript pop-up window is called.
+- Use significantly less CSS and JavaScript.
+- Build a workflow to automate the optimization process using something like Gulp.js or Grunt.js
