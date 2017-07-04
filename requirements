@@ -29,10 +29,9 @@ Make sure to check your code is valid by running it through an HTML and CSS vali
 Check Multiple Browsers 
 
 
-EXTRA CREDIT 
-
-- Requests below 23
-- Reduce total download size to less than 1MB
-- Provide multiple file sizes for images and only load larger images when JavaScript pop-up window is called.
-- Use significantly less CSS and JavaScript.
-- Build a workflow to automate the optimization process using something like Gulp.js or Grunt.js
+For Gulp practice  
+ Build a workflow to automate the optimization process
+ 
+ 
+RUNNING THE PERFORMANCE MEASUREMENT TOOL
+- 
