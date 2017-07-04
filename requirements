@@ -13,18 +13,18 @@ Resize images appropriately to reduce the file size of each image while maintain
 Replace the social media icons with their SVG equivalents in the img/social folder.
 
 
-Reduce web font usage by using Google fonts to load required fonts instead of supplied font stylesheets.
+Reduce web font usage by using Google fonts to load required fonts instead of supplied font stylesheets 
 
-Combine and minify CSS files.
+Combine and minify CSS files 
 
-Combine and minify JS files.
+Combine and minify JS files
 
 Link to the minified files in your HTML,
     Be sure to include your combined files in your project. We will use these to check for any errors in the CSS and JS.    
 
-Prevent blocking JavaScript by moving it from the head of the page to a better location
+Prevent blocking JavaScript by moving it from the head of the page to a better location - DONE
 
-Make sure to check your code is valid by running it through an HTML and CSS validator.
+Make sure to check your code is valid by running it through an HTML and CSS validator
 
 Check Multiple Browsers 
 
