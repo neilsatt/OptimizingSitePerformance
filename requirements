@@ -10,7 +10,7 @@ Final total download size should be under 1.3MB
 
 Resize images appropriately to reduce the file size of each image while maintaining enough quality so the images don’t look pixelated in either the gallery or when the image is clicked and previewed at a larger size
 
-Replace the social media icons with their SVG equivalents in the img/social folder.
+Replace the social media icons with their SVG equivalents in the img/social folder - DONE 
 
 
 Reduce web font usage by using Google fonts to load required fonts instead of supplied font stylesheets 
