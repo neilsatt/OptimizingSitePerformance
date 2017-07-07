@@ -1,0 +1,26 @@
+{
+  "name": "optimizedsite",
+  "version": "1.0.0",
+  "description": "tree house optimized site project",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilsatt/OptimizingSitePerformance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilsatt/OptimizingSitePerformance/issues"
+  },
+  "homepage": "https://github.com/neilsatt/OptimizingSitePerformance#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
