@@ -27,7 +27,7 @@ Prevent blocking JavaScript by moving it from the head of the page to a better l
 
 Make sure to check your code is valid by running it through an HTML validator - DONE
 
-Make sure to check your code is valid by running it through an CSS validator - DONE (from Slack Channel Moderator ' In general, ignore css validation errors in files you didn’t create')
+Make sure to check your code is valid by running it through n CSS validator - DONE (from Slack Channel Moderator ' In general, ignore css validation errors in files you didn’t create')
 
 Check Multiple Browsers - IE11, Firefox, Chrome - DONE
 
