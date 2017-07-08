@@ -2,10 +2,10 @@ Install the Performance Measurement Tool - DONE
 
 Check the default project with the Performance Measurement Tool - DONE 
 
-Reduce browser requests to less than 27
-Look at the requests Metric’s “Max” value on the Measurement Tool 
+Reduce browser requests to less than 27 - DONE
+(Look at the requests Metric’s “Max” value on the Measurement Tool)
 
-Final total download size should be under 1.3MB - 
+Final total download size should be under 1.3MB - DONE 
 (The contentLength Metric’s “Max” value should be less than 1300000 bytes or 1.3MBs) 
 
 Resize images appropriately to reduce the file size of each image while maintaining enough quality so the images 
@@ -25,9 +25,11 @@ Be sure to include your combined files in your project. We will use these to che
 
 Prevent blocking JavaScript by moving it from the head of the page to a better location - DONE
 
-Make sure to check your code is valid by running it through an HTML and CSS validator - 
+Make sure to check your code is valid by running it through an HTML validator - DONE
 
-Check Multiple Browsers - 
+Make sure to check your code is valid by running it through an CSS validator - DONE (from Slack Channel Moderator ' In general, ignore css validation errors in files you didn’t create')
+
+Check Multiple Browsers - IE11, Firefox, Chrome - DONE
 
 
 
