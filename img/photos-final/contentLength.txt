@@ -1,0 +1,2 @@
+Length after compressing several times:
+contentLength_v4 =  1297842 

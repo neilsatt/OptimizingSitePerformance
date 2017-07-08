@@ -38,4 +38,4 @@ RUNNING THE PERFORMANCE MEASUREMENT TOOL
 - Type npm install and wait for the npm packages to install - (only the first time?)
 -  Type npm start. This starts a web server, so that another service phantomjs can test your page. 
 -  Visit the index.html page in a browser at http://localhost:8080/ to make sure that your page is loading correctly.
-- Open another console and Navigate to the optimization-testing folder and then type npm test. After a few moments you'll see a report with a bunch of data 
+- Open another console and Navigate to the optimization-testing folder and then type npm test. After a few moments you'll see a report with a bunch of data. 
