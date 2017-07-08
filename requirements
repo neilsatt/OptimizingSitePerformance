@@ -3,25 +3,25 @@ Install the Performance Measurement Tool - DONE
 Check the default project with the Performance Measurement Tool - DONE 
 
 Reduce browser requests to less than 27
-    Look at the requests Metric’s “Max” value on the Measurement Tool - 
+Look at the requests Metric’s “Max” value on the Measurement Tool 
 
-Final total download size should be under 1.3MB
-    The contentLength Metric’s “Max” value should be less than 1300000 bytes or 1.3MBs - 
+Final total download size should be under 1.3MB - 
+(The contentLength Metric’s “Max” value should be less than 1300000 bytes or 1.3MBs) 
 
-Resize images appropriately to reduce the file size of each image while maintaining enough quality so the images don’t look pixelated in either the gallery 
-or when the image is clicked and previewed at a larger size - DONE 
+Resize images appropriately to reduce the file size of each image while maintaining enough quality so the images 
+don’t look pixelated in either the gallery or when the image is clicked and previewed at a larger size - DONE 
 
 Replace the social media icons with their SVG equivalents in the img/social folder - DONE 
 
 
 Reduce web font usage by using Google fonts to load required fonts instead of supplied font stylesheets - DONE  
 
-Combine and minify CSS files - 
+Combine and minify CSS files - DONE
 
-Combine and minify JS files - 
+Combine and minify JS files - DONE 
 
-Link to the minified files in your HTML,
-    Be sure to include your combined files in your project. We will use these to check for any errors in the CSS and JS -  
+Link to the minified files in your HTML - DONE 
+Be sure to include your combined files in your project. We will use these to check for any errors in the CSS and JS - DONE  
 
 Prevent blocking JavaScript by moving it from the head of the page to a better location - DONE
 
@@ -32,15 +32,10 @@ Check Multiple Browsers -
 
 
 ------------------------------------------------------------------------------------------------
-
-For Gulp practice  
- Build a workflow to automate the optimization process
- 
- 
 RUNNING THE PERFORMANCE MEASUREMENT TOOL
-- In the public folder, add your index file plus css, img, and js folders
+- In the optimization-testing/public folder, add your index file plus css, img, and js folders
 - Using a console, naviagate to optimization-testing
-- Type npm install and wait for the npm packages to install
+- Type npm install and wait for the npm packages to install - (only the first time?)
 -  Type npm start. This starts a web server, so that another service phantomjs can test your page. 
 -  Visit the index.html page in a browser at http://localhost:8080/ to make sure that your page is loading correctly.
 - Open another console and Navigate to the optimization-testing folder and then type npm test. After a few moments you'll see a report with a bunch of data 
